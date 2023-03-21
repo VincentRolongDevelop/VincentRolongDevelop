@@ -1,5 +1,5 @@
-### Hi there I'm Vincent Rolong👋
-### I’m currently learning Spring Boot
+### Hi there I'm Vincent Rolong Software developer👋
+### Currently studying software engineering at the University of Cartagena 👨‍💻
 
 <!--
 **VincentRolongDevelop/VincentRolongDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

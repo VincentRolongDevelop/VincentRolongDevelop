@@ -1,4 +1,4 @@
-### Hi there I'm Vincent Rolong Software developer👋
+### Hi there! I'm Vincent Rolong Software developer👋
 ### Currently studying software engineering at the University of Cartagena 👨‍💻
 
 <!--

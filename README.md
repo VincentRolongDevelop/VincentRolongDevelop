@@ -8,9 +8,12 @@
 # 👨🏼‍💻 Tech Stack:
 
 
-# 📈 My Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=VincentRolongDevelop&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+# 📊 My Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=VincentRolongDevelop&&theme=blueberry)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&&theme=blueberry&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+# 📈 Daily Chart:
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VincentRolongDevelop&bg_color=1a1b27&color=628fdb&line=07f1d7&point=FFFFFF&hide_border=true" /></a>
 
 
 <!--

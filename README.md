@@ -1,8 +1,13 @@
-### Hi there! I'm Vincent Rolong Software developer👋
+# 👋 About Me:
+### Hi there! I'm Vincent Rolong Software developer!
 ### Currently studying software engineering at the University of Cartagena 💻
 ### If you want to contact me !
 [![Linkedin](https://img.shields.io/badge/-|LinkedIn|-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-rolong-marquez-422427267/)
 [![Gmail](https://img.shields.io/badge/-|Gmail|-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vincent.rolong.develop@gmail.com)
+
+
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **VincentRolongDevelop/VincentRolongDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

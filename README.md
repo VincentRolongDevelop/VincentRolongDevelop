@@ -43,6 +43,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 </br>
 
+<b>
+-Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+</br>
+
+
+
 # 📊 My Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VincentRolongDevelop&&theme=blueberry)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&&theme=blueberry&include_all_commits=false&count_private=false&layout=compact)<br/>

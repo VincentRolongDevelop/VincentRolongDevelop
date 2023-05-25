@@ -58,12 +58,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VincentRolongDevelop&&theme=blueberry)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&&theme=blueberry&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-# 📈 Daily Chart:
-<img alt="Vincent Rolong´s Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VincentRolongDevelop&bg_color=1a1b27&color=628fdb&line=07f1d7&point=FFFFFF&hide_border=true" /></a>
 
 
 <!--
 **VincentRolongDevelop/VincentRolongDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# 📈 Daily Chart:
+<img alt="Vincent Rolong´s Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VincentRolongDevelop&bg_color=1a1b27&color=628fdb&line=07f1d7&point=FFFFFF&hide_border=true" /></a>
+
 
 Here are some ideas to get you started:
 

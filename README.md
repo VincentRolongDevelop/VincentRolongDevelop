@@ -58,6 +58,7 @@
 # 📊 My Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VincentRolongDevelop&&theme=blueberry)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRolongDevelop&&theme=blueberry&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Vincent's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VincentRolongDevelop&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

@@ -1,5 +1,5 @@
 # 👋 About me:
-### Software developer at 10th semester of my bachelor’s degree in software engineering with experience in the use of Spring boot, with knowledge of web development tools such as HTML, CSS and JavaScript. I have knowledge in the use of database management systems such as SQL Server and PostgreSQL.
+### Software Engineer with experience in the use of Spring boot, with knowledge of web development tools such as HTML, CSS and JavaScript. I have knowledge in the use of database management systems such as SQL Server and PostgreSQL.
 [![Linkedin](https://img.shields.io/badge/-|LinkedIn|-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-rolong-marquez-422427267/)
 [![Gmail](https://img.shields.io/badge/-|Gmail|-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vincent.rolong.develop@gmail.com)
 
